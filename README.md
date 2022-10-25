@@ -16,3 +16,7 @@ I used twarc library to retrieve data, and save to csv. The library is easy to u
 * Update bearer_token with your value saved in a safe place. **Dont share your bearer_token**
 * Enter query value, e.g. **"Tesla"**
 * Update start_time and end_time values. If testing with Tesla, use **minutes**. If testing the query on your brand switch minutes to **hours**
+
+
+## Setup AWS Account ##
+* Link
