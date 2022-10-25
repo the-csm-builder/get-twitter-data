@@ -19,4 +19,4 @@ I used twarc library to retrieve data, and save to csv. The library is easy to u
 
 
 ## Setup AWS Account ##
-* Link
+* Link - https://aws.amazon.com/free/?trk=78b916d7-7c94-4cab-98d9-0ce5e648dd5f&sc_channel=ps&s_kwcid=AL!4422!3!432339156165!e!!g!!create%20aws%20account&ef_id=Cj0KCQjwkt6aBhDKARIsAAyeLJ2ItztYrYnbucklIvDygq79dIwNmieyTtjV6_aCX98csgZEQfIXOvIaAhRhEALw_wcB:G:s&s_kwcid=AL!4422!3!432339156165!e!!g!!create%20aws%20account
