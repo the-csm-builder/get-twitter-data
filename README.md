@@ -30,4 +30,5 @@ I used twarc library to retrieve data, and save to csv. The library is easy to u
 * AWS offers a free tier, if you get the data small for testing purposes, the cost will be minimal. For now, we are justing using the AWS comprehend sentiment service. For detailed pricing follow this link - https://aws.amazon.com/comprehend/pricing/
 
 
-
+## Link to workbook ##
+[Get Twitter Notebook](/Get-twitter-to-csv.ipynb)
